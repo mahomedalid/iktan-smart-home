@@ -8,16 +8,16 @@ My garage control is almost at the end of their useful life. Sometimes I have it
 
 ### Features
 
-[ ] Open right garage door
-[ ] Open left garage door
-[ ] Android App
-[ ] Live camera stream
-[ ] Automated movement detection
-[ ] Detection of open door or closed door
-[ ] FitBit watch app
-[ ] Temperature/Humidity sensor
-[ ] Status led
-[ ] Push notifications
+- [ ] Open right garage door
+- [ ] Open left garage door
+- [ ] Android App
+- [ ] Live camera stream
+- [ ] Automated movement detection
+- [ ] Detection of open door or closed door
+- [ ] FitBit watch app
+- [ ] Temperature/Humidity sensor
+- [ ] Status led
+- [ ] Push notifications
 
 ## Requirements
 
@@ -30,9 +30,9 @@ My garage control is almost at the end of their useful life. Sometimes I have it
 
 Automated gardening herbs that need watering and UV lights in indoors.
 
-[ ] Humidity detection
-[ ] Automated watering
-[ ] Soil measurements
-[ ] Automated UV
-[ ] Android App
-[ ] Push notifications
+- [ ] Humidity detection
+- [ ] Automated watering
+- [ ] Soil measurements
+- [ ] Automated UV
+- [ ] Android App
+- [ ] Push notifications
